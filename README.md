@@ -13,9 +13,8 @@ A modern, feature-rich Food Delivery Web Application built with React.js, Vite, 
 
 📦 Tech Stack
 Frontend: React.js, Vite, Tailwind CSS
-State Management: (Redux, Context API) (if applicable, let me know!)
-Backend: Node.js, Express.js (if applicable, let me know!)
-Database: MongoDB, Firebase (if applicable, let me know!)
+State Management: (Redux, Context API) 
+
 🛠️ Installation & Setup
 bash
 Copy
